@@ -1,1 +1,1 @@
-# HALLOW-V1
+# HALLOW-V2
